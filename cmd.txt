@@ -1,6 +1,6 @@
 ﻿   dirdi 查看文件，参数：/Q显示文件及目录属系统哪个用户，/T:C显示文件创建时间，/T:A显示文件上次被访问时间，/T:W上次被修改时间
  
-    cd             help   	CLS清除屏幕
+    c  cdcd            help   	CLS清除屏幕
 alt+enter 属性			notepad--------打开记事本 
 windows+l  锁屏			regedit.exe----注册表
 windows+e  我的电脑		mstsc
